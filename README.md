@@ -9,8 +9,8 @@ Please complete the following tasks below.
 Please update this README file and fill in your name and GitHub id.   
 Please use this GitHub id throughout this module.
 
-**Student name** :  
-**GitHub id** : 
+**Student name** :  AU YEUNG KAM WANG
+**GitHub id** : 26578487
 
 
 
